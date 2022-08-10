@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Botines",
+    "price": 20000,
+    "thumbnail": "https://www.pngwing.com/es/free-png-xgsls"
+  },
+  {
+    "id": 2,
+    "title": "Pelota",
+    "price": 12500,
+    "thumbnail": "https://www.pngegg.com/es/png-cgxve"
+  },
+  {
+    "id": 3,
+    "title": "Guantes de arquero",
+    "price": 14000,
+    "thumbnail": "https://www.pngwing.com/es/free-png-iiycv"
+  }
+]
