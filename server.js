@@ -6,13 +6,8 @@ const Contenedor = require('./main');
 const producto = new Contenedor('./archivo/archivo.json');
 
 app.get('/productos', async (req, res) => {
-    try {
         const prod = await producto.getAll()
-        res.send(prod)
-        
-    } catch (error) {
-        throw new Error (`No se encontro la ruta solicitada ${error}`)        
-    }
+        res.send(prod) 
     })
 
 
